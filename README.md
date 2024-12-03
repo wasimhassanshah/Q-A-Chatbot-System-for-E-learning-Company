@@ -1,4 +1,8 @@
 # Q-A-Chatbot-System-for-E-learning-Company
+
+![image](https://github.com/wasimhassanshah/Q-A-Chatbot-System-for-E-learning-Company/blob/main/Ed_Tech_Q_n_A_Chatbot.JPG)
+
+
 # Purpose 
 Developed a chatbot Q&amp;A system for e-learning company, to provide instant and accurate answers to learners' questions, enhancing their learning experience
 
